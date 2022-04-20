@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/merzoo)
 
-专注前端工程化、可视化解决方案
+web3 developer
 
 **Languages and Tools:**
 
